@@ -1,6 +1,6 @@
-# bilibili-video-downloader
+# bilibili-video-download
 
-> bilibili video downloader includes video, audio, subtitle, cover download apis
+> bilibili video download includes video, audio, subtitle, cover download apis
 
 ## Descriptions
 
